@@ -1,0 +1,26 @@
+
+body{
+    background-color: #E8F9FD;
+}
+
+hr{
+    background-color: #E8F9FD;
+    border-color: black;
+    border-width: 10px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+}
+
+h1{
+    color: #66BFBF;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+11
+h3{
+    color: #66BFBF;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+ 
